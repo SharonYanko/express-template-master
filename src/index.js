@@ -13,4 +13,5 @@ export class Main {
 }
 
 var main = new Main().init();
+;;
 
